@@ -1,4 +1,8 @@
-# 🍥Fuwari
+# Simi Blog:
+This is the repository of blog.simi.ovh
+
+Reference of the website:
+## 🍥Fuwari
 
 A static blog template built with [Astro](https://astro.build).
 
