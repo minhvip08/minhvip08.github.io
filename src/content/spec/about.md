@@ -1,9 +1,4 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 🎉 Chào mừng đến với trang của Nguyễn Sĩ Minh! 🎉
 
-::github{repo="saicaca/fuwari"}
-
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+Xin chào mọi người,  
+Mình là **Nguyễn Sĩ Minh** (hoặc bạn có thể gọi mình là **Simi**). Đây là nơi mình sẽ chia sẻ những suy nghĩ, kinh nghiệm, và hành trình học tập, làm việc của mình. Là một người yêu thích công nghệ và lập trình, mình hy vọng những bài viết tại đây sẽ mang đến giá trị hữu ích cho các bạn.
