@@ -1,21 +1,23 @@
 ---
 title: Smart Pointer - Giải Pháp Quản Lý Bộ Nhớ Tối Ưu Trong C++
 published: 2024-12-07
-description: 'Chào mừng đến với trang của Nguyễn Sĩ Minh'
+description: Smart pointer là một đối tượng thuộc các lớp được thiết kế để quản lý tài nguyên, như vùng nhớ động hoặc các tài nguyên hệ thống khác, theo cách tự động và an toàn. 
 image: './img/smart_pointer_illustration.webp'
 tags: [C++, learn, pointer, smartpointer]
-category: 'C++'
+category: C++
 draft: false 
-lang: ''
+lang: 'vi'
 ---
+#### Prerequisites: [Pointer trong C++](https://blog.simi.ovh/posts/pointer-trong-c++/)
+
 ## Mục lục
 
 1. [Dẫn nhập](#dẫn-nhập)  
 2. [Smart Pointer - Giải pháp tối ưu để quản lý bộ nhớ](#smart-pointer---giải-pháp-tối-ưu-để-quản-lý-bộ-nhớ)  
 3. [Các loại Smart Pointer](#các-loại-smart-pointer)  
-   - [std::unique_ptr](#stdunique_ptr)  
-   - [std::shared_ptr](#stdshared_ptr)  
-   - [std::weak_ptr](#stdweak_ptr)  
+   - [std::unique_ptr]()  
+   - [std::shared_ptr]()  
+   - [std::weak_ptr]()  
 4. [Bảng so sánh 3 loại Smart Pointer](#bảng-so-sánh-3-loại-smart-pointer)  
 5. [Sử dụng Smart Pointer sao cho đúng cách?](#sử-dụng-smart-pointer-sao-cho-đúng-cách)  
    - [Sử dụng `std::make_shared`](#sử-dụng-stdmakeshared-thay-vì-khởi-tạo-trực-tiếp)  
@@ -205,7 +207,7 @@ Trong C++ STL, có ba loại smart pointers chính là `std::unique_ptr`, `std::
     ```
     
 
-### Bảng so sáng 3 loại smart pointer
+### Bảng so sánh 3 loại smart pointer
 
 | **Thuộc tính** | **std::unique_ptr** | **std::shared_ptr** | **std::weak_ptr** |
 | --- | --- | --- | --- |

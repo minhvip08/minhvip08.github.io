@@ -1,7 +1,7 @@
 ---
 title: Hello World
 published: 2024-11-27
-description: 'Chào mừng đến với trang của Nguyễn Sĩ Minh'
+description: Chào mừng đến với trang của Nguyễn Sĩ Minh
 image: 'hello-world.jpg'
 tags: [hello]
 category: 'hello'
