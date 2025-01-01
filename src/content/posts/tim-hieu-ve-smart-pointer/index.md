@@ -8,7 +8,7 @@ category: C++
 draft: false 
 lang: 'vi'
 ---
-#### Prerequisites: [Pointer trong C++](https://blog.simi.ovh/posts/pointer-trong-c++/)
+#### Prerequisites: [Pointer trong C++](https://blog.simi.ovh/posts/pointer-trong-c/)
 
 ## Mục lục
 
